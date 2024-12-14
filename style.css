@@ -1,0 +1,344 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Section {
+    max-width: 1404px;
+    width: 100%;
+    margin: 0 auto;
+    height: 2000px;
+    padding: 76px;
+    background: #E4EBFF;
+    margin-top: 64px;
+}
+
+#FeaturesSection {
+    max-width: 1080px;
+    width: 100%;
+    height: 2000px;
+    padding: 96px 0;
+    background: #FFF;
+    margin: 0 auto;
+}
+
+#Conteiner {
+    display: block;
+    padding: 0 32px;
+
+}
+
+#FeaturesSpan {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: #6941C6;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+#MainTitle {
+    margin: 0 auto;
+    text-align: center;
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 44px;
+}
+
+#StartParagraph {
+    margin-top: 16px;
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 56px;
+}
+
+#Conteinerr {
+    display: block;
+    padding: 0 32px;
+    width: 1280px;
+    margin-bottom: 89px;
+}
+
+#ShareDiv {
+    vertical-align: middle;
+    display: inline-block;
+    width: 560px;
+    height: 334px;
+}
+
+#ShareText {
+    display: inline-block;
+}
+
+#ShareTitle {
+    margin-top: 16px;
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+    margin-bottom: 8px;
+    vertical-align: top;
+}
+
+#TeamParagraph {
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 24px;
+}
+
+#DivErti {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#firstImg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#DivOri {
+    vertical-align: middle;
+    display: block;
+    margin: 12px 0;
+}
+
+#SecondImg {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#DivSami {
+    vertical-align: middle;
+    display: block;
+}
+
+#ThirdImg {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#Leverage {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+#Always {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+#Automate {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+
+}
+
+#IMGDIV {
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+
+#BigImage {
+    vertical-align: middle;
+    width: 480px;
+    display: inline-block;
+    text-align: right;
+}
+
+#SecondConteiner {
+    display: inline-block;
+    padding-right: 32px;
+}
+
+#SecondS {
+    display: inline-block;
+    width: 1280px;
+    margin-bottom: 89px;
+}
+
+#BigImageTwo {
+    vertical-align: middle;
+    padding: 0;
+    width: 480px;
+    display: inline-block;
+}
+
+#IsevDiv img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#InlineDiv {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#IconAndText {
+    margin-left: 50px;
+    vertical-align: top;
+    display: inline-block;
+    width: 560px;
+    height: 410;
+}
+
+#Mid {
+    vertical-align: middle;
+    margin-bottom: 20px;
+
+}
+
+#DeliverTitle {
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+    margin-bottom: 16px;
+}
+
+#AllinOne {
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 24px;
+}
+
+
+
+#Erti {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Ori {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 12px 0;
+
+}
+
+#Sami {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+
+#IsevDiv p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+#reportContainer {
+    padding: 0 32px;
+}
+
+#reportContainerInfo {
+    width: 560px;
+    vertical-align: middle;
+    display: inline-block;
+
+}
+
+#ManageTitle {
+    font-size: 30px;
+    color: #181D27;
+    font-weight: 600;
+    margin: 20px 0 12px;
+    line-height: 38px;
+}
+
+#MeasureParagraph {
+    color: #535862;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 24px;
+}
+
+#FilterDiv {
+    margin-left: 16px;
+    color: #535862;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+#SaveDiv {
+    color: #535862;
+    margin-left: 16px;
+    font-size: 18px;
+    line-height: 28px;
+
+}
+
+#ConnectDiv {
+    margin-left: 16px;
+    color: #535862;
+    font-size: 18px;
+    line-height: 28px;
+
+}
+
+#FilterImg {
+    vertical-align: middle;
+}
+
+#FilterP {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#SaveImg {
+    vertical-align: middle;
+}
+
+#SaveP {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 20px 0;
+}
+
+#ConnectImg {
+    vertical-align: middle;
+}
+
+#ConnectP {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#DiDiSuratis {
+    vertical-align: middle;
+    display: inline-block;
+
+}
+#BigImageSami {
+    vertical-align: middle;
+    width: 480px;
+}
